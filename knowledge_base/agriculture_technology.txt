@@ -1,0 +1,33 @@
+AGRICULTURE TECHNOLOGY
+
+Description:
+Agriculture Technology (AgriTech) uses technology to improve farming, crop production, irrigation, and agricultural efficiency.
+
+Technical Skills:
+- Precision Farming
+- GIS
+- IoT
+- Drone Technology
+- Data Analysis
+- Agricultural Engineering
+
+Soft Skills:
+- Problem Solving
+- Communication
+- Field Management
+
+Certifications:
+- Precision Agriculture Certifications
+- GIS Certifications
+- Drone Operations Certifications
+
+Learning Resources:
+- Coursera
+- FAO Learning Academy
+- edX
+
+Career Roles:
+- AgriTech Engineer
+- Agricultural Analyst
+- Farm Technology Consultant
+- Precision Agriculture Specialist

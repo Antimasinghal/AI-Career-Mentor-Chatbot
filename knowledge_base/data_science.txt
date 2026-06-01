@@ -1,0 +1,35 @@
+DATA SCIENCE
+
+Description:
+Data Science involves extracting insights from data using statistics, programming, and machine learning.
+
+Technical Skills:
+- Python
+- SQL
+- Statistics
+- Data Visualization
+- Pandas
+- NumPy
+- Machine Learning
+
+Soft Skills:
+- Problem Solving
+- Communication
+- Critical Thinking
+
+Certifications:
+- IBM Data Science Professional Certificate
+- Google Data Analytics Certificate
+- Microsoft Data Analyst Associate
+
+Learning Resources:
+- Coursera
+- Kaggle
+- DataCamp
+- Analytics Vidhya
+
+Career Roles:
+- Data Analyst
+- Data Scientist
+- Business Analyst
+- Machine Learning Engineer

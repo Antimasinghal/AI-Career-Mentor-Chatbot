@@ -1,0 +1,34 @@
+CYBERSECURITY
+
+Description:
+Cybersecurity protects systems, networks, and data from cyber threats and attacks.
+
+Technical Skills:
+- Networking
+- Linux
+- Ethical Hacking
+- Penetration Testing
+- Security Tools
+- Incident Response
+
+Soft Skills:
+- Analytical Thinking
+- Attention to Detail
+- Problem Solving
+
+Certifications:
+- CompTIA Security+
+- CEH (Certified Ethical Hacker)
+- CISSP
+
+Learning Resources:
+- TryHackMe
+- Hack The Box
+- Coursera
+- Cybrary
+
+Career Roles:
+- Security Analyst
+- Penetration Tester
+- Security Engineer
+- SOC Analyst

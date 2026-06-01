@@ -1,0 +1,35 @@
+SOFTWARE DEVELOPMENT
+
+Description:
+Software Development focuses on designing, building, testing, and maintaining software applications.
+
+Technical Skills:
+- Programming (Python, Java, C++)
+- Data Structures and Algorithms
+- Database Management
+- Web Development
+- Git and GitHub
+- System Design
+
+Soft Skills:
+- Teamwork
+- Communication
+- Problem Solving
+
+Certifications:
+- AWS Developer Associate
+- Microsoft Azure Developer Associate
+- Oracle Java Certification
+
+Learning Resources:
+- LeetCode
+- GeeksforGeeks
+- FreeCodeCamp
+- Coursera
+
+Career Roles:
+- Software Engineer
+- Full Stack Developer
+- Backend Developer
+- Frontend Developer
+- Mobile App Developer

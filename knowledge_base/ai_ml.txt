@@ -1,0 +1,18 @@
+Artificial Intelligence is the simulation of human intelligence by machines.
+
+Required Skills:
+- Python
+- Machine Learning
+- Deep Learning
+- Mathematics
+- Generative AI
+
+Certifications:
+- Google AI
+- IBM AI
+- AWS Machine Learning
+
+Resources:
+- Coursera
+- Kaggle
+- FastAI
