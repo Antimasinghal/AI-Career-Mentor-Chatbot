@@ -1,4 +1,4 @@
-# 🎓 EduPath AI - Premium Career Mentor Chatbot
+# 🎓 EduPath AI Career Mentor Chatbot
 
 EduPath AI is a state-of-the-art, feature-rich conversational career counseling assistant built using **Streamlit** and **Google Gemini 2.5 Flash**. It provides automated RAG-based career advice, resume analysis, mock interviews, interactive roadmaps, and administrative tools in a beautiful obsidian-glass themed interface.
 
